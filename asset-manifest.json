@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MissionRupayan/static/css/main.0d53bde4.css",
+    "main.js": "/MissionRupayan/static/js/main.715843c8.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/MissionRupayan/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/tanmoy.jpg": "/MissionRupayan/static/media/tanmoy.5a49156e026f474377ec.jpg",
+    "static/media/background1.png": "/MissionRupayan/static/media/background1.be37476c6c39a4cf4f20.png",
+    "static/media/avi.jpg": "/MissionRupayan/static/media/avi.bf49578c4156161faae3.jpg",
+    "static/media/hara.jpg": "/MissionRupayan/static/media/hara.d3a7783f47af745131b4.jpg",
+    "static/media/img1.png": "/MissionRupayan/static/media/img1.59395e7c3a28b8634155.png",
+    "static/media/subho.jpg": "/MissionRupayan/static/media/subho.f7e9588e1a6fa450a882.jpg",
+    "static/media/rupicon.png": "/MissionRupayan/static/media/rupicon.b6c67784c8cc18f6467d.png",
+    "static/media/bulti.jpeg": "/MissionRupayan/static/media/bulti.c7bebb3e1ffa17642012.jpeg",
+    "static/media/hands.png": "/MissionRupayan/static/media/hands.3732e238f36fe6d4198e.png",
+    "static/media/img3.jpg": "/MissionRupayan/static/media/img3.02f28c9f7c4383988582.jpg",
+    "static/media/img2.jpg": "/MissionRupayan/static/media/img2.e52f94b1e9f9fea4937c.jpg",
+    "index.html": "/MissionRupayan/index.html",
+    "main.0d53bde4.css.map": "/MissionRupayan/static/css/main.0d53bde4.css.map",
+    "main.715843c8.js.map": "/MissionRupayan/static/js/main.715843c8.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/MissionRupayan/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d53bde4.css",
+    "static/js/main.715843c8.js"
+  ]
+}
